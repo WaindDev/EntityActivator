@@ -1,0 +1,33 @@
+static_entities:
+  - BLOCK_DISPLAY
+  - ITEM_DISPLAY
+  - TEXT_DISPLAY
+
+allowed_worlds:
+  - SurvivalMap
+
+sectors:
+  Симуляционная:
+    world: SurvivalMap
+    first_point: -867,71,517
+    second_point: -946,91,475
+  '123':
+    world: SurvivalMap
+    first_point: -863,78,525
+    second_point: -856,81,520
+  Ангар(Северо-запад):
+    world: SurvivalMap
+    first_point: -894,79,314
+    second_point: -961,98,260
+  Ангар(Северо-восток):
+    world: SurvivalMap
+    first_point: -769,78,358
+    second_point: -729,93,312
+  Плац:
+    world: SurvivalMap
+    first_point: -833,78,406
+    second_point: -811,84,381
+  Ангар(Главный):
+    world: SurvivalMap
+    first_point: -807,78,314
+    second_point: -837,86,371
